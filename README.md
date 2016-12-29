@@ -6,14 +6,14 @@
 # Dependencies
 NOTE: The following software versions are not strictly required (there are a number of newer versions for both VirtualBox and Vagrant that probably should work). However, Marshall's development Macbook is supporting a DC/OS (Marthon) installation that has hard dependencies on those versions due to bugs in subsequent VirtualBox and Vagrant releases.
 
-* MacOS (tested on 10.12.2)
+* **MacOS (tested on 10.12.2)**
 
-* VirtualBox (tested on 5.0.28) 
+* **VirtualBox (tested on 5.0.28)**
 https://www.virtualbox.org/wiki/Download_Old_Builds_5_0
 
 VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License (GPL) version 2. See "About VirtualBox" for an introduction.
 
-* Vagrant (tested on 1.8.6) 
+* **Vagrant (tested on 1.8.6)**
 https://releases.hashicorp.com/vagrant/1.8.6/
 
 Vagrant provides easy to configure, reproducible, and portable work environments built on top of industry-standard technology and controlled by a single consistent workflow to help maximize the productivity and flexibility of you and your team.
