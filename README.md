@@ -6,12 +6,12 @@
 # Dependencies
 NOTE: The following software versions are not strictly required (there are a number of newer versions for both VirtualBox and Vagrant that probably should work. However, Marshall's development Macbook is supporting a DC/OS (Marthon) installation that has hard dependencies on those versions due to bugs in subsequent VirtualBox and Vagrant releases.
 
-MacOS (tested on 10.12.2)
+* MacOS (tested on 10.12.2)
 
-VirtualBox (tested on 5.0.28) 
+* VirtualBox (tested on 5.0.28) 
 https://www.virtualbox.org/wiki/Download_Old_Builds_5_0
 
-Vagrant (tested on 1.8.6) 
+* Vagrant (tested on 1.8.6) 
 https://releases.hashicorp.com/vagrant/1.8.6/
 
 # Installation
