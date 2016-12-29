@@ -18,7 +18,7 @@ https://releases.hashicorp.com/vagrant/1.8.6/
 
 Vagrant provides easy to configure, reproducible, and portable work environments built on top of industry-standard technology and controlled by a single consistent workflow to help maximize the productivity and flexibility of you and your team.
 
-[Marshall's Comment] It's useful for a project like this as it multiplatform and has plugins that support AWS.
+[Marshall's Comment] Vagrant is useful for a project like this as it multiplatform and has plugins that support AWS. As a substitute for tools like Chef/Puppet, Ansible, etc. is worthy of discussion.
 https://github.com/mitchellh/vagrant-aws
 
 # Installation
