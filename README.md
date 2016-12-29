@@ -11,8 +11,15 @@ NOTE: The following software versions are not strictly required (there are a num
 * VirtualBox (tested on 5.0.28) 
 https://www.virtualbox.org/wiki/Download_Old_Builds_5_0
 
+VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License (GPL) version 2. See "About VirtualBox" for an introduction.
+
 * Vagrant (tested on 1.8.6) 
 https://releases.hashicorp.com/vagrant/1.8.6/
+
+Vagrant provides easy to configure, reproducible, and portable work environments built on top of industry-standard technology and controlled by a single consistent workflow to help maximize the productivity and flexibility of you and your team.
+
+[Marshall's Comment] It's useful for a project like this as it multiplatform and has plugins that support AWS.
+https://github.com/mitchellh/vagrant-aws
 
 # Installation
 ```
