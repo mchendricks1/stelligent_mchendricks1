@@ -13,12 +13,12 @@ https://releases.hashicorp.com/vagrant/1.8.6/
 git clone https://github.com/mchendricks1/stelligent_mchendricks1
 
 # Launch
-`vagrant box add hashicorp/precise64 --provider virtualbox
-
+```
+vagrant box add hashicorp/precise64 --provider virtualbox
 vagrant up
 
 open http://localhost:8080
 
 vagrant halt
-
-vagrant destroy`
+vagrant destroy
+```
