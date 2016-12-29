@@ -18,11 +18,5 @@ git clone https://github.com/mchendricks1/stelligent_mchendricks1
 ```
 # Launch
 ```
-vagrant box add hashicorp/precise64 --provider virtualbox
-vagrant up
-
-open http://localhost:8080
-
-vagrant halt
-vagrant destroy
+provision_stelligent_miniproject.sh
 ```
