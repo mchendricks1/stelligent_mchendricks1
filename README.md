@@ -4,6 +4,8 @@
 2. Commit all code to a public version ­control repository of your choice (e.g. Github) and provide usage instructions.
 
 # Dependencies
+NOTE: The following software versions are not strictly required (there are a number of newer versions for both VirtualBox and Vagrant that probably should work. However, Marshall's development Macbook is supporting a DC/OS (Marthon) installation that has hard dependencies on those versions due to bugs in subsequent VirtualBox and Vagrant releases.
+
 MacOS (tested on 10.12.2)
 
 VirtualBox (tested on 5.0.28) 
@@ -14,9 +16,9 @@ https://releases.hashicorp.com/vagrant/1.8.6/
 
 # Installation
 ```
-git clone https://github.com/mchendricks1/stelligent_mchendricks1
+# git clone https://github.com/mchendricks1/stelligent_mchendricks1
 ```
 # Launch
 ```
-provision_stelligent_miniproject.sh
+# provision_stelligent_miniproject.sh
 ```
