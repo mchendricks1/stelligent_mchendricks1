@@ -20,5 +20,5 @@ https://releases.hashicorp.com/vagrant/1.8.6/
 ```
 # Launch
 ```
-# provision_stelligent_miniproject.sh
+# ./provision_stelligent_miniproject.sh
 ```
